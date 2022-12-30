@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  <a href="https://a607ernie.github.io/a607ernie/">
+  <img  src="https://github.com/a607ernie/a607ernie/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
