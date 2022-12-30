@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ![a607ernie's github stats](https://github-readme-stats.vercel.app/api?username=a607ernie&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=a607ernie&theme=tokyonight" alt="mystreak"/>
-![a607ernie's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a607ernie&theme=tokyonight&layout=compact)
+
 
 
 
