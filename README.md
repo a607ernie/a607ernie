@@ -1,7 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ernie </h1>
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=a607ernie.repoName)] 
-[![GitHub followers](https://img.shields.io/github/followers/a607ernie.svg?style=social&label=Follow)](https://github.com/a607ernie?tab=followers)<br/>
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=a607ernie.repoName) [![GitHub followers](https://img.shields.io/github/followers/a607ernie.svg?style=social&label=Follow)](https://github.com/a607ernie?tab=followers)<br/>
 
 <!--
 **a607ernie/a607ernie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
