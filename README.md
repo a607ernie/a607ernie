@@ -29,7 +29,7 @@ I am a student at the NTNU KDD Lab. My research interests include data analysis,
   - Machine & Deep learning
   - Scikit learn
   - Pandas
-- 👯 I looking forward to finding some interesting projects.
+- 👯 I'm looking forward to finding some interesting projects.
 - Outside tech, 📖 I love to read books, 🎵 listen to music.
 - 😄 This is my blog : <a href="https://azurerain.xyz/">https://azurerain.xyz/</a>
 - 📫 Reach out to me at: <a href="ernie60717@gmail.com">ernie60717@gmail.com</a>
