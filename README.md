@@ -39,11 +39,7 @@ I am a student at the NTNU KDD Lab. My research interests include data analysis,
 
 - Top Repositories 
 
-[![flask-celery-demo](https://github-readme-framework.vercel.app/api/pin/?username=a607ernie&repo=flask-celery-demo)](https://github.com/a607ernie/flask-celery-demo)[![flask-JWT](https://github-readme-framework.vercel.app/api/pin/?username=a607ernie&repo=flask-JWT)](https://github.com/a607ernie/flask-JWT)
-
-[![Flask-uWSGI-Nginx-Docker](https://github-readme-framework.vercel.app/api/pin/?username=a607ernie&repo=Flask-uWSGI-Nginx-Docker)](https://github.com/a607ernie/Flask-uWSGI-Nginx-Docker)[![Ptt-Stock-Data](https://github-readme-framework.vercel.app/api/pin/?username=a607ernie&repo=Ptt-Stock-Data)](https://github.com/a607ernie/Ptt-Stock-Data)
-
-[![docker_wordpress](https://github-readme-framework.vercel.app/api/pin/?username=a607ernie&repo=docker_wordpress)](https://github.com/a607ernie/docker_wordpress)[![Data-mining-Final-Project](https://github-readme-framework.vercel.app/api/pin/?username=a607ernie&repo=Data-mining-Final-Project)](https://github.com/a607ernie/Data-mining-Final-Project)
+[![flask-celery-demo](https://github-readme-framework.vercel.app/api/pin/?username=a607ernie&repo=flask-celery-demo)](https://github.com/a607ernie/flask-celery-demo)[![flask-JWT](https://github-readme-framework.vercel.app/api/pin/?username=a607ernie&repo=flask-JWT)](https://github.com/a607ernie/flask-JWT)[![Flask-uWSGI-Nginx-Docker](https://github-readme-framework.vercel.app/api/pin/?username=a607ernie&repo=Flask-uWSGI-Nginx-Docker)](https://github.com/a607ernie/Flask-uWSGI-Nginx-Docker)[![Ptt-Stock-Data](https://github-readme-framework.vercel.app/api/pin/?username=a607ernie&repo=Ptt-Stock-Data)](https://github.com/a607ernie/Ptt-Stock-Data)[![docker_wordpress](https://github-readme-framework.vercel.app/api/pin/?username=a607ernie&repo=docker_wordpress)](https://github.com/a607ernie/docker_wordpress)[![Data-mining-Final-Project](https://github-readme-framework.vercel.app/api/pin/?username=a607ernie&repo=Data-mining-Final-Project)](https://github.com/a607ernie/Data-mining-Final-Project)
 
 
 
