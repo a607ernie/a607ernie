@@ -37,4 +37,6 @@ I am a student at the NTNU KDD Lab. My research interests include data analysis,
 
 ![a607ernie's github stats](https://github-readme-framework-git-main-a607ernie.vercel.app/api?username=a607ernie&show_icons=true&theme=tokyonight)![a607ernie's Top Langs](https://github-readme-framework.vercel.app/api/top-langs/?username=a607ernie&theme=tokyonight&layout=compact)
 
+- Top Repositories 
 
+[![flask-celery-demo](https://github-readme-framework.vercel.app/api/pin/?username=a607ernie&repo=flask-celery-demo)](https://github.com/a607ernie/flask-celery-demo)
