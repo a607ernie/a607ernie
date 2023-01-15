@@ -39,7 +39,7 @@ I am a student at the NTNU KDD Lab. My research interests include data analysis,
 
 - Top Repositories 
 
-[![flask-celery-demo](https://github-readme-framework.vercel.app/api/pin/?username=a607ernie&repo=flask-celery-demo)](https://github.com/a607ernie/flask-celery-demo)[![docker_wordpress](https://github-readme-framework.vercel.app/api/pin/?username=a607ernie&repo=docker_wordpress)](https://github.com/a607ernie/docker_wordpress)
+[![flask-celery-demo](https://github-readme-framework.vercel.app/api/pin/?username=a607ernie&repo=flask-celery-demo)](https://github.com/a607ernie/flask-celery-demo)[![anigamer-sn_list](https://github-readme-framework.vercel.app/api/pin/?username=a607ernie&repo=anigamer-sn_list)](https://github.com/a607ernie/anigamer-sn_list)
 
 [![flask-JWT](https://github-readme-framework.vercel.app/api/pin/?username=a607ernie&repo=flask-JWT)](https://github.com/a607ernie/flask-JWT)[![Flask-uWSGI-Nginx-Docker](https://github-readme-framework.vercel.app/api/pin/?username=a607ernie&repo=Flask-uWSGI-Nginx-Docker)](https://github.com/a607ernie/Flask-uWSGI-Nginx-Docker)
 
