@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a student at the NTNU KDD Lab. My research interests include data analysis, big data and artificial intelligence.
+I am a student at the NTNU. My research interests include data analysis, big data and artificial intelligence.
 
 - 🌱 I’m currently learning ...
   - Machine & Deep learning
@@ -32,7 +32,7 @@ I am a student at the NTNU KDD Lab. My research interests include data analysis,
 - 👯 I'm looking forward to finding some interesting projects.
 - Outside tech, 📖 I love to read books, 🎵 listen to music.
 - 😄 This is my blog : <a href="https://azurerain.xyz/">https://azurerain.xyz/</a>
-- 📫 Reach out to me at: <a href="ernie60717@gmail.com">ernie60717@gmail.com</a>
+- 📫 Reach out to me at: <a href="ernie80731@gmail.com">ernie80731@gmail.com</a>
 
 
 ![a607ernie's github stats](https://github-readme-framework-git-main-a607ernie.vercel.app/api?username=a607ernie&show_icons=true&theme=tokyonight)![a607ernie's Top Langs](https://github-readme-framework.vercel.app/api/top-langs/?username=a607ernie&theme=tokyonight&layout=compact)
