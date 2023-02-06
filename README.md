@@ -43,7 +43,7 @@ I am a student at the NTNU. My research interests include data analysis, big dat
 
 [![flask-JWT](https://github-readme-framework.vercel.app/api/pin/?username=a607ernie&repo=flask-JWT)](https://github.com/a607ernie/flask-JWT)[![Flask-uWSGI-Nginx-Docker](https://github-readme-framework.vercel.app/api/pin/?username=a607ernie&repo=Flask-uWSGI-Nginx-Docker)](https://github.com/a607ernie/Flask-uWSGI-Nginx-Docker)
 
-[![Ptt-Stock-Data](https://github-readme-framework.vercel.app/api/pin/?username=a607ernie&repo=Ptt-Stock-Data)](https://github.com/a607ernie/Ptt-Stock-Data)[![Data-mining-Final-Project](https://github-readme-framework.vercel.app/api/pin/?username=a607ernie&repo=Data-mining-Final-Project)](https://github.com/a607ernie/Data-mining-Final-Project)
+[![Ptt-Stock-Data](https://github-readme-framework.vercel.app/api/pin/?username=a607ernie&repo=Ptt-Stock-Data)](https://github.com/a607ernie/Ptt-Stock-Data)[![Gamer-Genshin-Code](https://github-readme-framework.vercel.app/api/pin/?username=a607ernie&repo=Gamer-Genshin-Code)](https://github.com/a607ernie/Gamer-Genshin-Code)
 
 
 
