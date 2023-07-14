@@ -20,12 +20,10 @@ Here are some ideas to get you started:
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a student at the NTNU. My research interests include data analysis, big data and artificial intelligence.
+I am a student at the NTNU. My research interests include data analysis, text mining and artificial intelligence.
 
 - 🌱 I’m currently learning ...
   - Machine & Deep learning
-  - Scikit learn
-  - Pandas
 - 👯 I'm looking forward to finding some interesting projects.
 - Outside tech, 📖 I love to read books, 🎵 listen to music.
 - 😄 This is my blog : <a href="https://azurerain.xyz/">https://azurerain.xyz/</a>
