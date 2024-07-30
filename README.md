@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 😄 This is my blog : 
+- 📫 Reach out to me at: <a href="ernie80731@gmail.com">ernie80731@gmail.com</a>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=a607ernie&theme=tokyonight" alt="mystreak"/>
 
 -->
@@ -26,19 +28,18 @@ I am a student at the NTNU. My research interests include data analysis, text mi
   - Machine & Deep learning
 - 👯 I'm looking forward to finding some interesting projects.
 - Outside tech, 📖 I love to read books, 🎵 listen to music.
-- 😄 This is my blog : 
-- 📫 Reach out to me at: <a href="ernie80731@gmail.com">ernie80731@gmail.com</a>
+
 
 
 ![a607ernie's github stats](https://github-readme-framework-git-main-a607ernie.vercel.app/api?username=a607ernie&show_icons=true&theme=tokyonight)![a607ernie's Top Langs](https://github-readme-framework.vercel.app/api/top-langs/?username=a607ernie&theme=tokyonight&layout=compact)
-
+<!--
 - Top Repositories 
 
 [![flask-celery-demo](https://github-readme-framework.vercel.app/api/pin/?username=a607ernie&repo=flask-celery-demo)](https://github.com/a607ernie/flask-celery-demo)[![anigamer-sn_list](https://github-readme-framework.vercel.app/api/pin/?username=a607ernie&repo=anigamer-sn_list)](https://github.com/a607ernie/anigamer-sn_list)
 
 [![flask-JWT](https://github-readme-framework.vercel.app/api/pin/?username=a607ernie&repo=flask-JWT)](https://github.com/a607ernie/flask-JWT)[![Flask-uWSGI-Nginx-Docker](https://github-readme-framework.vercel.app/api/pin/?username=a607ernie&repo=Flask-uWSGI-Nginx-Docker)](https://github.com/a607ernie/Flask-uWSGI-Nginx-Docker)
 
-[![Ptt-Stock-Data](https://github-readme-framework.vercel.app/api/pin/?username=a607ernie&repo=Ptt-Stock-Data)](https://github.com/a607ernie/Ptt-Stock-Data)[![Gamer-Genshin-Code](https://github-readme-framework.vercel.app/api/pin/?username=a607ernie&repo=Gamer-Genshin-Code)](https://github.com/a607ernie/Gamer-Genshin-Code)
+[![Ptt-Stock-Data](https://github-readme-framework.vercel.app/api/pin/?username=a607ernie&repo=Ptt-Stock-Data)](https://github.com/a607ernie/Ptt-Stock-Data)[![Gamer-Genshin-Code](https://github-readme-framework.vercel.app/api/pin/?username=a607ernie&repo=Gamer-Genshin-Code)](https://github.com/a607ernie/Gamer-Genshin-Code)-->
 
 
 
