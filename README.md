@@ -22,10 +22,15 @@ Here are some ideas to get you started:
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a student at the NTNU. My research interests include data analysis, text mining and artificial intelligence.
+I am passionate about automating the software development process, focusing on optimizing software delivery and management. I excel in cloud technology and system collaboration, aiming to create efficient and stable application environments. I enjoy embracing new technologies and driving innovation to enhance system performance
 
 - 🌱 I’m currently learning ...
-  - Machine & Deep learning
+  - Automating software development processes
+  - Optimizing software delivery and management
+  - Cloud technology and system collaboration
+  - Creating efficient and stable application environments
+  - Exploring new technologies and driving innovation to enhance system performance
+  
 - 👯 I'm looking forward to finding some interesting projects.
 - Outside tech, 📖 I love to read books, 🎵 listen to music.
 
