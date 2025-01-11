@@ -31,13 +31,14 @@ I am passionate about automating the software development process, focusing on o
   - Creating efficient and stable application environments
   - Exploring new technologies and driving innovation to enhance system performance
   
-- 👯 I'm looking forward to finding some interesting projects.
+<!-- - 👯 I'm looking forward to finding some interesting projects.
 - Outside tech, 📖 I love to read books, 🎵 listen to music.
+-->
 
 
-
-![a607ernie's github stats](https://github-readme-framework-git-main-a607ernie.vercel.app/api?username=a607ernie&show_icons=true&theme=tokyonight)
 <!--
+![a607ernie's github stats](https://github-readme-framework-git-main-a607ernie.vercel.app/api?username=a607ernie&show_icons=true&theme=tokyonight)
+
 ![a607ernie's Top Langs](https://github-readme-framework.vercel.app/api/top-langs/?username=a607ernie&theme=tokyonight&layout=compact)
 
 - Top Repositories 
