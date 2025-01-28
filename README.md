@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am passionate about automating the software development process, focusing on optimizing software delivery and management. I excel in cloud technology and system collaboration, aiming to create efficient and stable application environments. I enjoy embracing new technologies and driving innovation to enhance system performance
+I am passionate about automating the software development process, focusing on optimizing software delivery and management. I excel in cloud technology and containerization, aiming to create efficient and stable application environments. I enjoy embracing new technologies and driving innovation to enhance system performance
 
 - 🌱 I’m currently learning ...
   - Automating software development processes
