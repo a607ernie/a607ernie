@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=a607ernie&theme=tokyonight" alt="mystreak"/>
 
 -->
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 <!--
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 I am passionate about automating the software development process, focusing on optimizing software delivery and management. I excel in cloud technology and containerization, aiming to create efficient and stable application environments. I enjoy embracing new technologies and driving innovation to enhance system performance
